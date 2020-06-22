@@ -1,0 +1,970 @@
+INFO  | 2020-06-10 21:41:47 | [main] test.Base (Base.java:29) - Starting Appium Server ------------------------------
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-10 21:41:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-10 21:41:47 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-10 21:41:47 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-10 21:42:29 | [main] test.Base (Base.java:29) - Starting Appium Server ------------------------------
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-10 21:42:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-10 21:42:29 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-10 21:42:29 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-10 21:43:09 | [main] actions.DefaultActions (DefaultActions.java:41) - India selected in drop down
+INFO  | 2020-06-10 21:43:09 | [main] pages.HomePage (HomePage.java:45) - Drop Down: Country Selected India
+INFO  | 2020-06-10 21:43:15 | [main] actions.DefaultActions (DefaultActions.java:51) - Dolly Sehgal entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-10 21:43:15 | [main] pages.HomePage (HomePage.java:50) - Input Text Dolly Sehgal
+INFO  | 2020-06-10 21:43:16 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-10 21:43:16 | [main] pages.HomePage (HomePage.java:59) - Radio Button Clicked female
+INFO  | 2020-06-10 21:43:16 | [main] test.Base (Base.java:37) - Closing Drive instance -----------------
+INFO  | 2020-06-10 21:47:16 | [main] test.Base (Base.java:29) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-10 21:47:16 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-10 21:47:16 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-10 21:47:16 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-10 21:47:55 | [main] actions.DefaultActions (DefaultActions.java:41) - India selected in drop down
+INFO  | 2020-06-10 21:47:55 | [main] pages.HomePage (HomePage.java:45) - Drop Down: Country Selected India
+INFO  | 2020-06-10 21:48:01 | [main] actions.DefaultActions (DefaultActions.java:51) - Dolly Sehgal entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-10 21:48:01 | [main] pages.HomePage (HomePage.java:50) - Input Text Dolly Sehgal
+INFO  | 2020-06-10 21:48:02 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-10 21:48:02 | [main] pages.HomePage (HomePage.java:59) - Radio Button Clicked female
+INFO  | 2020-06-10 21:48:02 | [main] test.Base (Base.java:37) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-10 21:48:51 | [main] test.Base (Base.java:29) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-10 21:48:51 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-10 21:48:51 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-10 21:48:51 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-10 21:49:29 | [main] actions.DefaultActions (DefaultActions.java:41) - India selected in drop down
+INFO  | 2020-06-10 21:49:29 | [main] pages.HomePage (HomePage.java:45) - Drop Down: Country Selected India
+INFO  | 2020-06-10 21:49:36 | [main] actions.DefaultActions (DefaultActions.java:51) - Dolly Sehgal entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-10 21:49:36 | [main] pages.HomePage (HomePage.java:50) - Input Text Dolly Sehgal
+INFO  | 2020-06-10 21:49:36 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-10 21:49:36 | [main] pages.HomePage (HomePage.java:59) - Radio Button Clicked female
+INFO  | 2020-06-10 21:49:36 | [main] test.Base (Base.java:37) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-11 22:48:38 | [main] test.Base (Base.java:29) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-11 22:48:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-11 22:48:38 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-11 22:48:38 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-11 22:48:44 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-11 22:48:44 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-11 22:49:00 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-11 22:49:00 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-11 22:49:07 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-11 22:49:07 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-11 22:49:08 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-11 22:49:08 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-11 22:49:09 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 22:49:09 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 22:49:09 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 22:49:09 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-11 22:49:16 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-11 22:49:16 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 22:49:22 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-11 22:49:22 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 22:49:24 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 22:49:24 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 22:49:24 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 22:49:24 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-11 22:49:24 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-11 22:49:24 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-11 22:49:24 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-11 22:49:25 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-11 22:49:25 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+ERROR | 2020-06-11 22:49:25 | [main] pages.CartPage (CartPage.java:80) - Validation Unsuccessful: Final Amount(275.97) is equal to Sum of cost price(275.97)of each product
+INFO  | 2020-06-11 22:49:25 | [main] test.Base (Base.java:37) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-11 22:55:38 | [main] test.Base (Base.java:29) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-11 22:55:38 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-11 22:55:38 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-11 22:55:38 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-11 22:55:44 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-11 22:55:44 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-11 22:56:00 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-11 22:56:00 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-11 22:56:06 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-11 22:56:06 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-11 22:56:07 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-11 22:56:07 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-11 22:56:08 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 22:56:08 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 22:56:08 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 22:56:08 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-11 22:56:15 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-11 22:56:15 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 22:56:21 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-11 22:56:21 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 22:56:22 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 22:56:22 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 22:56:23 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 22:56:23 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-11 22:56:23 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-11 22:56:23 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-11 22:56:23 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-11 22:56:23 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-11 22:56:23 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+ERROR | 2020-06-11 22:56:23 | [main] pages.CartPage (CartPage.java:80) - Validation Unsuccessful: Final Amount(275.97) is not equal to Sum of cost price(275.97)of each product
+INFO  | 2020-06-11 22:56:23 | [main] test.Base (Base.java:37) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-11 22:58:37 | [main] test.Base (Base.java:32) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-11 22:58:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-11 22:58:37 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-11 22:58:37 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-11 22:58:43 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-11 22:58:43 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-11 22:58:59 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-11 22:58:59 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-11 22:59:06 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-11 22:59:06 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-11 22:59:06 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-11 22:59:06 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-11 22:59:07 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 22:59:07 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 22:59:08 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 22:59:08 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-11 22:59:14 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-11 22:59:15 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 22:59:20 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-11 22:59:21 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 22:59:22 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 22:59:22 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 22:59:22 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 22:59:22 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-11 22:59:22 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-11 22:59:22 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-11 22:59:22 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-11 22:59:22 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-11 22:59:22 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+ERROR | 2020-06-11 22:59:22 | [main] pages.CartPage (CartPage.java:80) - Validation Unsuccessful: Final Amount(275.97) is not equal to Sum of cost price(275.97)of each product
+INFO  | 2020-06-11 22:59:22 | [main] test.Base (Base.java:40) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-11 22:59:48 | [main] test.Base (Base.java:32) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-11 22:59:48 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-11 22:59:48 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-11 22:59:48 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-11 23:01:23 | [main] test.Base (Base.java:32) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-11 23:01:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-11 23:01:23 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-11 23:01:23 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-11 23:03:52 | [main] test.Base (Base.java:32) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-11 23:03:52 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-11 23:03:52 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-11 23:03:52 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-11 23:04:19 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 23:04:35 | [main] pages.HomePage (HomePage.java:73) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to General Store
+INFO  | 2020-06-11 23:05:05 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-11 23:05:05 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-11 23:05:12 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-11 23:05:12 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-11 23:05:13 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-11 23:05:13 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-11 23:05:14 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 23:05:14 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 23:05:14 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 23:05:14 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-11 23:05:26 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-11 23:05:27 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 23:05:32 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-11 23:05:32 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 23:05:34 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 23:05:34 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 23:05:34 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 23:05:34 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-11 23:05:34 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-11 23:05:34 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-11 23:05:34 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-11 23:05:34 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-11 23:05:35 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+INFO  | 2020-06-11 23:15:43 | [main] test.Base (Base.java:32) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-11 23:15:43 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-11 23:15:43 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-11 23:15:43 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-11 23:15:49 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-11 23:15:49 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-11 23:16:04 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-11 23:16:04 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-11 23:16:11 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-11 23:16:11 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-11 23:16:12 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-11 23:16:12 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-11 23:16:13 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 23:16:13 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-11 23:16:13 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 23:16:13 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-11 23:16:20 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-11 23:16:21 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 23:16:26 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-11 23:16:27 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-11 23:16:28 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 23:16:28 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-11 23:16:28 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-11 23:16:28 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-11 23:16:28 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-11 23:16:28 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-11 23:16:28 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-11 23:16:29 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-11 23:16:29 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+INFO  | 2020-06-11 23:16:29 | [main] pages.CartPage (CartPage.java:76) - Validation Successful: Final Amount(275.97) is equal to Sum of cost price(275.97) of each product
+INFO  | 2020-06-11 23:16:29 | [main] test.Base (Base.java:40) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 01:53:31 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 01:53:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 01:53:31 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 01:53:31 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 01:53:42 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 01:53:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 01:53:42 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 01:53:42 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-21 01:53:49 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-21 01:53:49 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-21 01:54:05 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-21 01:54:05 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-21 01:54:11 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-21 01:54:11 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-21 01:54:12 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-21 01:54:12 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-21 01:54:13 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 01:54:13 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 01:54:14 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 01:54:14 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-21 01:54:20 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-21 01:54:21 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 01:54:26 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-21 01:54:27 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 01:54:28 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 01:54:28 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 01:54:28 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 01:54:28 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-21 01:54:29 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-21 01:54:29 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-21 01:54:29 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-21 01:54:29 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-21 01:54:29 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+INFO  | 2020-06-21 01:54:29 | [main] pages.CartPage (CartPage.java:76) - Validation Successful: Final Amount(275.97) is equal to Sum of cost price(275.97) of each product
+INFO  | 2020-06-21 01:54:29 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 02:25:42 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:25:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:25:42 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:25:42 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:26:33 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:26:33 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:26:33 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:26:33 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:27:09 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:27:09 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:27:09 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:27:09 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:29:00 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:29:00 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:29:00 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:29:00 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:30:42 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:30:42 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:30:42 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:30:42 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:33:12 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:33:12 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:33:12 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:33:12 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:33:47 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:33:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:33:47 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:33:47 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:34:58 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:34:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:34:58 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:34:58 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-21 02:35:04 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-21 02:35:04 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-21 02:35:20 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-21 02:35:20 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-21 02:35:26 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-21 02:35:26 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-21 02:35:27 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-21 02:35:27 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-21 02:35:28 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 02:35:28 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 02:35:29 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 02:35:29 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-21 02:35:35 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-21 02:35:36 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 02:35:41 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-21 02:35:42 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 02:35:43 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 02:35:43 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 02:35:43 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 02:35:43 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-21 02:35:43 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-21 02:35:43 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-21 02:35:43 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-21 02:35:44 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-21 02:35:44 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+INFO  | 2020-06-21 02:35:44 | [main] pages.CartPage (CartPage.java:76) - Validation Successful: Final Amount(275.97) is equal to Sum of cost price(275.97) of each product
+INFO  | 2020-06-21 02:35:44 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 02:52:13 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:52:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:52:13 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:52:13 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-21 02:52:22 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-21 02:52:22 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+ERROR | 2020-06-21 02:52:24 | [main] actions.DefaultActions (DefaultActions.java:44) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: android:id/text1})
+INFO  | 2020-06-21 02:52:24 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+ERROR | 2020-06-21 02:52:26 | [main] actions.DefaultActions (DefaultActions.java:54) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-21 02:52:26 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+ERROR | 2020-06-21 02:52:28 | [main] actions.DefaultActions (DefaultActions.java:64) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-21 02:52:28 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+ERROR | 2020-06-21 02:52:31 | [main] actions.DefaultActions (DefaultActions.java:74) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 02:52:31 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+ERROR | 2020-06-21 02:52:33 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+ERROR | 2020-06-21 02:52:33 | [main] pages.ProductPage (ProductPage.java:64) -  Valdiation Failed - We are not on Products Page
+ERROR | 2020-06-21 02:52:39 | [main] actions.DefaultActions (DefaultActions.java:139) - Exception Occured: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-13MQ7JB0', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.androidsample.generalst..., appPackage: com.androidsample.generalstore, appiumVersion: 1.15.1, automationName: UiAutomator1, databaseEnabled: false, desired: {appActivity: com.androidsample.generalst..., appPackage: com.androidsample.generalstore, appiumVersion: 1.15.1, automationName: UiAutomator1, deviceName: OnePlus, deviceOrientation: portrait, fullReset: false, noReset: true, platformName: android, platformVersion: 10, udid: 85c359fb}, deviceManufacturer: OnePlus, deviceModel: HD1901, deviceName: 85c359fb, deviceOrientation: portrait, deviceScreenSize: 1080x2400, deviceUDID: 85c359fb, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, platform: LINUX, platformName: Android, platformVersion: 10, takesScreenshot: true, udid: 85c359fb, warnings: {}, webStorageEnabled: false}
+Session ID: 1aca6d64-cf8b-4349-91d1-e0a5b7b74465
+*** Element info: {Using=-android uiautomator, value=new UiScrollable(new UiSelector()).scrollIntoView(text("Jordan Lift Off"))}
+ERROR | 2020-06-21 02:52:45 | [main] actions.DefaultActions (DefaultActions.java:139) - Exception Occured: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-13MQ7JB0', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.androidsample.generalst..., appPackage: com.androidsample.generalstore, appiumVersion: 1.15.1, automationName: UiAutomator1, databaseEnabled: false, desired: {appActivity: com.androidsample.generalst..., appPackage: com.androidsample.generalstore, appiumVersion: 1.15.1, automationName: UiAutomator1, deviceName: OnePlus, deviceOrientation: portrait, fullReset: false, noReset: true, platformName: android, platformVersion: 10, udid: 85c359fb}, deviceManufacturer: OnePlus, deviceModel: HD1901, deviceName: 85c359fb, deviceOrientation: portrait, deviceScreenSize: 1080x2400, deviceUDID: 85c359fb, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, platform: LINUX, platformName: Android, platformVersion: 10, takesScreenshot: true, udid: 85c359fb, warnings: {}, webStorageEnabled: false}
+Session ID: 1aca6d64-cf8b-4349-91d1-e0a5b7b74465
+*** Element info: {Using=-android uiautomator, value=new UiScrollable(new UiSelector()).scrollIntoView(text("Air Jordan 4 Retro"))}
+ERROR | 2020-06-21 02:52:47 | [main] actions.DefaultActions (DefaultActions.java:74) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 02:52:47 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+ERROR | 2020-06-21 02:52:47 | [main] actions.DefaultActions (DefaultActions.java:118) - Validation Failure
+INFO  | 2020-06-21 02:52:47 | [main] pages.CartPage (CartPage.java:115) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to Cart
+INFO  | 2020-06-21 02:52:49 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 02:52:55 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:52:55 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:52:55 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:52:55 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:53:47 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:53:47 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:53:47 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:53:47 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-21 02:53:53 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-21 02:53:53 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-21 02:54:09 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-21 02:54:09 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-21 02:54:15 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-21 02:54:15 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-21 02:54:16 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-21 02:54:16 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-21 02:54:17 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 02:54:17 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 02:54:17 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 02:54:17 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-21 02:54:24 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-21 02:54:24 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 02:54:30 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-21 02:54:30 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 02:54:32 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 02:54:32 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 02:54:32 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 02:54:32 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-21 02:54:32 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-21 02:54:32 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-21 02:54:32 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-21 02:54:33 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-21 02:54:33 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+INFO  | 2020-06-21 02:54:33 | [main] pages.CartPage (CartPage.java:76) - Validation Successful: Final Amount(275.97) is equal to Sum of cost price(275.97) of each product
+INFO  | 2020-06-21 02:54:33 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 02:54:54 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:54:54 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:54:54 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:54:54 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:55:53 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:55:53 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:55:53 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:55:53 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-21 02:56:00 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-21 02:56:00 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-21 02:56:15 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-21 02:56:15 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-21 02:56:27 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-21 02:56:27 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-21 02:56:27 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-21 02:56:27 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-21 02:56:28 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 02:56:28 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 02:56:29 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 02:56:29 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-21 02:56:35 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-21 02:56:36 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 02:56:41 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-21 02:56:41 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 02:56:42 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 02:56:42 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 02:56:43 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 02:56:43 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-21 02:56:43 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-21 02:56:43 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-21 02:56:43 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-21 02:56:43 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-21 02:56:43 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+INFO  | 2020-06-21 02:56:43 | [main] pages.CartPage (CartPage.java:76) - Validation Successful: Final Amount(275.97) is equal to Sum of cost price(275.97) of each product
+INFO  | 2020-06-21 02:56:43 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 02:57:37 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:57:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:57:37 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:57:37 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:58:36 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:58:36 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:58:36 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:58:36 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 02:59:03 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 02:59:03 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 02:59:03 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 02:59:03 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 03:00:05 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 03:00:05 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 03:00:05 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 03:00:05 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 03:01:24 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 03:01:32 | [main] pages.HomePage (HomePage.java:73) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to General Store
+INFO  | 2020-06-21 03:02:45 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 03:03:37 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 03:03:37 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 03:03:37 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 03:03:37 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 03:03:51 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 03:03:51 | [main] pages.HomePage (HomePage.java:73) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to General Store
+INFO  | 2020-06-21 03:03:51 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 03:04:23 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 03:04:23 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 03:04:23 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 03:04:23 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 03:05:13 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 03:05:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 03:05:13 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 03:05:13 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 03:05:38 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 03:05:38 | [main] pages.HomePage (HomePage.java:73) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to General Store
+INFO  | 2020-06-21 03:05:38 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 16:30:29 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:30:29 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:30:29 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:30:29 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 16:32:40 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:32:40 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:32:40 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:32:40 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 16:33:31 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:33:31 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:33:31 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:33:31 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 16:34:28 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:34:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:34:28 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:34:28 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 16:35:24 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:35:24 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:35:24 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:35:24 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 16:36:58 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:36:58 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:36:58 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:36:58 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 16:37:57 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:37:57 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:37:57 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:37:57 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 16:39:28 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 16:39:28 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 16:39:28 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 16:39:28 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 17:00:13 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 17:00:13 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 17:00:13 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 17:00:13 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 17:00:21 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 17:00:21 | [main] pages.HomePage (HomePage.java:73) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to General Store
+INFO  | 2020-06-21 17:00:21 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 17:02:32 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 17:02:32 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 17:02:32 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 17:02:32 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+INFO  | 2020-06-21 17:02:41 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 17:02:41 | [main] pages.HomePage (HomePage.java:73) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to General Store
+INFO  | 2020-06-21 17:02:41 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 17:04:50 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 17:04:50 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 17:04:50 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 17:04:50 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-21 17:05:01 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-21 17:05:01 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-21 17:05:01 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------
+INFO  | 2020-06-21 17:09:26 | [main] test.Base (Base.java:34) - ------------------------------ Starting Appium Server ------------------------------
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appPackage value: com.androidsample.generalstore
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appActivity value: com.androidsample.generalstore.SplashActivity
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: noReset value: true
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: appiumVersion value: 1.15.1
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformVersion value: 10
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: automationName value: UiAutomator1
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceOrientation value: portrait
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: platformName value: Android
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: udid value: 85c359fb
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: deviceName value: OnePlus
+INFO  | 2020-06-21 17:09:26 | [main] factory.DriverFactory (DriverFactory.java:46) - Setting Capabilities: fullReset value: false
+INFO  | 2020-06-21 17:09:26 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_IP value: 127.0.0.1
+INFO  | 2020-06-21 17:09:26 | [main] dataProvider.ConfigDataProvider (ConfigDataProvider.java:32) - Returning value of given key: APPIUM_PORT value: 4723
+ERROR | 2020-06-21 17:09:31 | [main] actions.DefaultActions (DefaultActions.java:124) - Exception Occured: Can't locate an element by this strategy: By.chained({By.id: com.androidsample.generalstore:id/toolbar_title})
+INFO  | 2020-06-21 17:09:31 | [main] pages.HomePage (HomePage.java:75) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is not equal to General Store
+INFO  | 2020-06-21 17:09:46 | [main] actions.DefaultActions (DefaultActions.java:41) - Cook Islands selected in drop down
+INFO  | 2020-06-21 17:09:46 | [main] pages.HomePage (HomePage.java:48) - Drop Down: Country Selected Cook Islands
+INFO  | 2020-06-21 17:09:53 | [main] actions.DefaultActions (DefaultActions.java:51) - I still long for her entered in Mobile TextBox Located by By.chained({By.id: com.androidsample.generalstore:id/nameField})
+INFO  | 2020-06-21 17:09:53 | [main] pages.HomePage (HomePage.java:53) - Input Text I still long for her
+INFO  | 2020-06-21 17:09:53 | [main] actions.DefaultActions (DefaultActions.java:61) - Click performed on Radio Button Located by By.chained({By.id: com.androidsample.generalstore:id/radioFemale})
+INFO  | 2020-06-21 17:09:53 | [main] pages.HomePage (HomePage.java:62) - Radio Button Clicked Female
+INFO  | 2020-06-21 17:09:54 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 17:09:54 | [main] pages.HomePage (HomePage.java:67) - Click button Located by By.chained({By.id: com.androidsample.generalstore:id/btnLetsShop})
+INFO  | 2020-06-21 17:09:55 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 17:09:55 | [main] pages.ProductPage (ProductPage.java:62) -  Valdiation Passed - Current Page:- Products Page
+INFO  | 2020-06-21 17:10:10 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Jordan Lift Off
+INFO  | 2020-06-21 17:10:11 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 17:10:15 | [main] actions.DefaultActions (DefaultActions.java:136) - Scrolling to the given text: Air Jordan 4 Retro
+INFO  | 2020-06-21 17:10:15 | [main] pages.ProductPage (ProductPage.java:48) - Adding product to cart
+INFO  | 2020-06-21 17:10:16 | [main] actions.DefaultActions (DefaultActions.java:71) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 17:10:16 | [main] pages.ProductPage (ProductPage.java:56) - Click on Button Located by By.chained({By.id: com.androidsample.generalstore:id/appbar_btn_cart})
+INFO  | 2020-06-21 17:10:16 | [main] actions.DefaultActions (DefaultActions.java:114) - Validation successfully!!!
+INFO  | 2020-06-21 17:10:16 | [main] pages.CartPage (CartPage.java:113) -  Valdiation Passed Located by By.chained({By.id: com.androidsample.generalstore:id/toolbar_title}) is equal to Cart
+INFO  | 2020-06-21 17:10:16 | [main] pages.CartPage (CartPage.java:71) - Total Amount 275.97
+INFO  | 2020-06-21 17:10:16 | [main] actions.DefaultActions (DefaultActions.java:91) - Performed Implicit Wait 5
+INFO  | 2020-06-21 17:10:16 | [main] actions.DefaultActions (DefaultActions.java:145) - Returing size of given collection [[[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice], [[io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, databaseEnabled=false, desired={platformName=android, deviceOrientation=portrait, appActivity=com.androidsample.generalstore.SplashActivity, appPackage=com.androidsample.generalstore, appiumVersion=1.15.1, automationName=UiAutomator1, deviceName=OnePlus, fullReset=false, noReset=true, platformVersion=10, udid=85c359fb}, deviceManufacturer=OnePlus, deviceModel=HD1901, deviceName=85c359fb, deviceOrientation=portrait, deviceScreenSize=1080x2400, deviceUDID=85c359fb, fullReset=false, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, noReset=true, platform=LINUX, platformName=Android, platformVersion=10, takesScreenshot=true, udid=85c359fb, warnings={}, webStorageEnabled=false}] -> id: com.androidsample.generalstore:id/productPrice]]
+INFO  | 2020-06-21 17:10:17 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 115.0
+INFO  | 2020-06-21 17:10:17 | [main] pages.CartPage (CartPage.java:63) - Total Products Amounts 275.97
+INFO  | 2020-06-21 17:10:17 | [main] pages.CartPage (CartPage.java:76) - Validation Successful: Final Amount(275.97) is equal to Sum of cost price(275.97) of each product
+INFO  | 2020-06-21 17:10:17 | [main] test.Base (Base.java:43) - ------------------------------ Closing Drive instance ------------------------------

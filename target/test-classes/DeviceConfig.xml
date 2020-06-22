@@ -1,0 +1,17 @@
+<DeviceConfig>
+
+	<name value="OnePlus" for="browser-device" type="local">
+		<appiumVersion>1.15.1</appiumVersion>
+		<deviceName>OnePlus</deviceName>
+		<deviceOrientation>portrait</deviceOrientation>
+		<platformName>Android</platformName>
+		<platformVersion>10</platformVersion>
+		<automationName>UiAutomator1</automationName>
+		<udid>85c359fb</udid>
+		<appPackage>com.androidsample.generalstore</appPackage>
+		<appActivity>com.androidsample.generalstore.SplashActivity</appActivity>
+		<noReset>true</noReset>
+		<fullReset>false</fullReset>	
+	</name>
+	
+</DeviceConfig>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51460" started-at="2020-06-21T11:39:26Z" finished-at="2020-06-21T11:40:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51460" started-at="2020-06-21T11:39:26Z" finished-at="2020-06-21T11:40:17Z">
+      <class name="com.test.AddMultiProduct">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.AddMultiProduct@2767e23c]" name="setUp" is-config="true" duration-ms="3563" started-at="2020-06-21T11:39:26Z" finished-at="2020-06-21T11:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addMultiProductPage()[pri:0, instance:com.test.AddMultiProduct@2767e23c]" name="addMultiProductPage" duration-ms="47397" started-at="2020-06-21T11:39:29Z" finished-at="2020-06-21T11:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultiProductPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.AddMultiProduct@2767e23c]" name="tearDown" is-config="true" duration-ms="482" started-at="2020-06-21T11:40:17Z" finished-at="2020-06-21T11:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.AddMultiProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
