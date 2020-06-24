@@ -1,5 +1,6 @@
 package com.pages;
 
+import java.io.IOException;
 import java.util.List;
 //import java.util.concurrent.TimeUnit;
 
@@ -9,6 +10,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.actions.DefaultActions;
 //import com.factory.DriverFactory;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
+import com.reporting.CaptureScreenshot;
 
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.pagefactory.AndroidFindBy;
@@ -20,10 +24,11 @@ public class CartPage {
 	public static final Logger logger = LogManager.getLogger(CartPage.class);
 	AndroidDriver<MobileElement> driver;
 	DefaultActions dActions = new DefaultActions();
-	//public Logger logs = LogManager.getLogger(this);
+	ExtentTest test;
 	
-	public CartPage(AndroidDriver<MobileElement> driver) {
+	public CartPage(AndroidDriver<MobileElement> driver, ExtentTest test) {
 		this.driver=driver;
+		this.test=test;
 		PageFactory.initElements(new AppiumFieldDecorator(driver), this);
 	}
 	
@@ -53,14 +58,15 @@ public class CartPage {
 	Double sum=0.0d, totalAmt=0.0d;
 	
 	public void getTotalProductAmount() {
-		dActions.waitImplicit(driver, 5);
-		Integer prodCount = dActions.getSize(productsPrice);
+		dActions.waitImplicit(test,driver, 5);
+		Integer prodCount = dActions.getSize(test,productsPrice);
 		for(Integer j=0;j<prodCount;j++) {
 			String priceText=productsPrice.get(j).getAttribute("name");
 			priceText=priceText.substring(1);
 			Double amount = Double.parseDouble(priceText);
 			sum=sum+amount;	
 			logger.info("Total Products Amounts "+sum);
+			test.log(Status.INFO, "Total Products Amounts "+sum);
 		}
 	}
 	
@@ -69,50 +75,69 @@ public class CartPage {
 		totalPrice=totalPrice.substring(1);
 		totalAmt = Double.parseDouble(totalPrice);
 		logger.info("Total Amount "+totalAmt);
+		test.log(Status.INFO, "Total Amount "+totalAmt);
+		test.log(Status.INFO, "Total  Amounts "+totalAmt);
 	}
 	
 	public void verifyTotalAmount() {
 		if(sum.compareTo(totalAmt)==0) {
 			logger.info("Validation Successful: "
 					+ "Final Amount("+totalAmt+") is equal to Sum of cost price("+sum+") of each product");
+			test.log(Status.PASS, "Validation Successful: "
+					+ "Final Amount("+totalAmt+") is equal to Sum of cost price("+sum+") of each product");
 		}
-		else
+		else {
 			logger.error("Validation Unsuccessful: Final "
 					+ "Amount("+totalAmt+") is not equal to Sum of cost price("+sum+")of each product");
+			try {
+				test.log(Status.FAIL, "Validation Unsuccessful: Final "
+						+ "Amount("+totalAmt+") is not equal to Sum of cost price("+sum+")of each product").addScreenCaptureFromPath(CaptureScreenshot.func_captureScreenshot(driver));
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				logger.error("Exception occured in taking screenshot");
+			}
+		}
+			
+		
 			
 	}
 	
 	public void clickChkBox() {
-		dActions.clickCheckBox(checkBox);
+		dActions.clickCheckBox(test, checkBox);
 		logger.info("Checkbox Clicked");
+		
 	}
 	
 	public void tapProceedBtn() {
-		dActions.tapButton(driver,proceedBtn);
+		dActions.tapButton(test, driver,proceedBtn);
 		logger.info("tap Button Clicked");
 	}
 	
 	public void longPressTerms() {
-		dActions.longPressButton(driver, termsBtn);
+		dActions.longPressButton(test, driver, termsBtn);
 		logger.info("Long Press Button Clicked");
 	}
 	
 	public void closeTerms() {
-		dActions.clickElement(termsBtn);
+		dActions.clickElement(test, termsBtn);
 		logger.info("Close Terms Button Clicked");
 	}
 	
 	public void switchContext() {
-		dActions.switchContext(driver);
+		dActions.switchContext(test, driver);
 		logger.info("Context Switched");
 	}
 	
-	public void verifyCartPage(String strText) {
-		Boolean result = dActions.verifyElement(cartPageTitle,strText);
-		if(result==true)
+	public void verifyCartPage(String strText) throws IOException {
+		Boolean result = dActions.verifyElement(driver, test, cartPageTitle,strText);
+		if(result==true) {
 			logger.info(" Valdiation Passed "+cartPageTitle+" is equal to "+strText);
-		else
-			logger.info(" Valdiation Passed "+cartPageTitle+" is not equal to "+strText);
+			test.log(Status.PASS, " Valdiation Passed "+cartPageTitle+" is equal to "+strText);
+		}
+		else {
+			logger.info(" Valdiation Failed "+cartPageTitle+" is not equal to "+strText);
+			test.log(Status.FAIL, " Valdiation Failed "+cartPageTitle+" is not equal to "+strText).addScreenCaptureFromPath(CaptureScreenshot.func_captureScreenshot(driver));
+		}
 	}
 
 }
