@@ -13,7 +13,7 @@ public class AddMultiProduct extends Base {
 		
 		HomePage homePage  = new HomePage(mDriver);
 		reporter.generateReport("addMultiProductPage");
-		reporter.logs("pass", "Nice- addMultiProductPage");
+		//reporter.logs("pass", "Nice- addMultiProductPage");
 		homePage.verifyHomePage("General Store");
 		homePage.selectCountry("Cook Islands");
 		homePage.inputName("I still long for her");

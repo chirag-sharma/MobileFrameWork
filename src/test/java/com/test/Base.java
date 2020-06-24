@@ -8,6 +8,7 @@ import org.testng.annotations.BeforeTest;
 import com.actions.DefaultActions;
 import com.factory.DriverFactory;
 import com.reporting.ExtFWReport;
+import com.reporting.Xtent;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
@@ -23,7 +24,7 @@ public class Base {
 	public DefaultActions dAction= null; //logging ke baad ye set karna hai
 	public static final Logger logger = LogManager.getLogger(Base.class); 
 	public AppiumDriverLocalService service;
-	ExtFWReport reporter = new ExtFWReport();
+	Xtent reporter = new Xtent();
 	/*
 	 * 
 	 * c=c  change all verification to assert
@@ -34,7 +35,7 @@ public class Base {
 		logger.info("------------------------------ Starting Appium Server ------------------------------");
 		//service.start();
 		mDriver = new DriverFactory().getDriver();
-		reporter.configureReporter();
+		reporter.initiateReport();
 		
 	}
 	

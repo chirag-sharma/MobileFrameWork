@@ -10,7 +10,7 @@ public class VerifyProductPage extends Base {
 	public void verifyProductPageTest() throws InterruptedException {
 		Thread.sleep(3000);
 		reporter.generateReport("verifyProductPageTest");
-		reporter.logs("pass", "Nice- verifyProductPageTest");
+		//reporter.logs("pass", "Nice- verifyProductPageTest");
 		ProductPage prodPage = new ProductPage(mDriver);
 		prodPage.verifyProductPage("Products");
 	}

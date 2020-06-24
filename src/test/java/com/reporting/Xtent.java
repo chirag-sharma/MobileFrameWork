@@ -16,39 +16,36 @@ public class Xtent {
 	
 	public ExtentReports extent;
 	//static ExtentKlovReporter Klov;
-	public ExtentTest logger;
+	public ExtentTest test;
 	public ExtentHtmlReporter Html;
 
 	
-	public void intiateReport(String suiteName) {
+	public void initiateReport() {
 	
-		Html = new ExtentHtmlReporter("./report/TestReport.html");
-		Html.loadXMLConfig("./Configuration/html-config.xml");
+		Html = new ExtentHtmlReporter("./reports/TestReport.html");
+		Html.loadXMLConfig("./src/test/resources/html-config.xml");
 		Html.setAppendExisting(true);
 		
 		extent = new ExtentReports();		
 		extent.attachReporter(Html);
-
 	}
 	
 	public ExtentTest generateReport(String testName) {
-		logger= extent.createTest(testName);
-		return logger;
+		return extent.createTest(testName);
 	}
 	
-	public void logs(WebDriver driver, String status, String description, String stepNum) {
+	public void logInfo(ExtentTest test,String description) {
+		test.log(Status.INFO, description);
+	}
+	
+	public void logPass(ExtentTest test,String description) {
+		test.log(Status.PASS, description);
+	}
+	
+	public void logError(ExtentTest test, WebDriver driver, String description) {
 		try {
-			if(status.equalsIgnoreCase("info")) {
-				logger.log(Status.INFO, description);
+				test.log(Status.ERROR, description).addScreenCaptureFromPath(CaptureScreenshot.func_captureScreenshot(driver));
 			}
-			else if (status.equalsIgnoreCase("pass")) {
-				logger.log(Status.PASS, description);
-			}
-			else if(status.equalsIgnoreCase("fail")) {
-				logger.log(Status.FAIL, description).addScreenCaptureFromPath(CaptureScreenshot.func_captureScreenshot(driver, stepNum));
-			}
-		}
-		
 		catch (IOException e) {
 			// TODO Auto-generated catch block
 			System.out.println(e.getMessage());
@@ -56,11 +53,6 @@ public class Xtent {
 		
 	}
 	
-	//I thought of writing a function for logger, but I think that'd be an overhead, we can directly call the logger at
-	//test steps. I believe that'd be a proper thing to do. (a better option). if not worked, we can always search
-	//other options.
-	
-	//Chirag
 	public void createHTMLReport() {
 		extent.flush();
 	}

@@ -13,7 +13,7 @@ public class AddSingleProduct extends Base{
 	public void addSingleProductTest() throws InterruptedException {
 		HomePage homePage  = new HomePage(mDriver);
 		reporter.generateReport("addSingleProductTest");
-		reporter.logs("pass", "Nice- addSingleProductTest");
+		//reporter.logs("pass", "Nice- addSingleProductTest");
 		homePage.verifyHomePage("General Store");
 		homePage.selectCountry("Cook Islands");
 		Thread.sleep(5000);
